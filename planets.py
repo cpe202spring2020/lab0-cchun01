@@ -1,4 +1,5 @@
 def weight_on_planets():
+   #paste code here
    weight = int(input('What do you weigh on earth? '))
    mars = weight*0.38
    jupiter = weight*2.34
